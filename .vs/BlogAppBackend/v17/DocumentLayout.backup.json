@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|c:\\users\\omery\\source\\repos\\blogappbackend\\entitieslayer\\concrete\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|solutionrelative:entitieslayer\\concrete\\posttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|c:\\users\\omery\\source\\repos\\blogappbackend\\entitieslayer\\concrete\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|solutionrelative:entitieslayer\\concrete\\like.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|c:\\users\\omery\\source\\repos\\blogappbackend\\entitieslayer\\concrete\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|solutionrelative:entitieslayer\\concrete\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|c:\\users\\omery\\source\\repos\\blogappbackend\\entitieslayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{420C019D-5333-4066-A7DB-85B60A3A43D3}|EntitiesLayer\\EntitiesLayer.csproj|solutionrelative:entitieslayer\\concrete\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostTag.cs",
+              "DocumentMoniker": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\PostTag.cs",
+              "RelativeDocumentMoniker": "EntitiesLayer\\Concrete\\PostTag.cs",
+              "ToolTip": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\PostTag.cs",
+              "RelativeToolTip": "EntitiesLayer\\Concrete\\PostTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:08:41.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Like.cs",
+              "DocumentMoniker": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Like.cs",
+              "RelativeDocumentMoniker": "EntitiesLayer\\Concrete\\Like.cs",
+              "ToolTip": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Like.cs",
+              "RelativeToolTip": "EntitiesLayer\\Concrete\\Like.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:06:49.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Tag.cs",
+              "RelativeDocumentMoniker": "EntitiesLayer\\Concrete\\Tag.cs",
+              "ToolTip": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Tag.cs",
+              "RelativeToolTip": "EntitiesLayer\\Concrete\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:05:44.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Comment.cs",
+              "RelativeDocumentMoniker": "EntitiesLayer\\Concrete\\Comment.cs",
+              "ToolTip": "C:\\Users\\omery\\source\\repos\\BlogAppBackend\\EntitiesLayer\\Concrete\\Comment.cs",
+              "RelativeToolTip": "EntitiesLayer\\Concrete\\Comment.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:04:14.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
